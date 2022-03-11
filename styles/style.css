@@ -2,9 +2,30 @@ body {
   background-color: black;
 }
 
-h1 {
+h1,
+h2 {
   font-family: "dancing script";
   text-align: center;
   color: white;
   font-weight: bold;
+}
+
+.hero h2 {
+  font-size: 96px;
+}
+
+.hero {
+  background: radial-gradient(
+    circle,
+    rgba(0, 212, 255, 1) 0%,
+    rgba(0, 0, 3, 0.8646052170868348) 0%,
+    rgba(2, 0, 36, 1) 100%
+  );
+
+  background-image: url(../images/grete.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  padding-top: 100px;
+  padding-bottom: 200px;
 }
