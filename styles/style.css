@@ -27,11 +27,33 @@ h2 {
   background-image: url(../images/grete.png);
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: cover;
   padding-top: 100px;
   padding-bottom: 200px;
   background-size: cover;
 }
+
+@media (max-width: 500px) {
+  .hero {
+    background-size: contain;
+    padding: 20px;
+    text-align: left;
+  }
+  .hero h2 {
+    font-size: 30px;
+    text-align: left;
+  }
+  .hero h1 {
+    font-size: 15px;
+    text-align: left;
+    padding-bottom: 2px;
+  }
+  .btn-branding {
+    font-size: 10px !important;
+    line-height: 15px !important;
+    padding: 5px 10px !important;
+  }
+}
+
 .btn-branding {
   background: radial-gradient(
     circle,
