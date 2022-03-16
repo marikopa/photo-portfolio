@@ -32,6 +32,37 @@ h2 {
   background-size: cover;
 }
 
+.btn-branding {
+  background: radial-gradient(
+    circle,
+    rgba(0, 212, 255, 1) 0%,
+    rgba(0, 0, 3, 0.6195071778711485) 0%,
+    rgba(0, 0, 0, 0.6643251050420168) 100%
+  );
+  border-radius: 4px;
+  color: white;
+  font-size: 18px;
+  line-height: 27px;
+  padding: 10px 20px;
+}
+
+footer .social-links a {
+  text-decoration: none;
+  color: white;
+  margin: 0 25px;
+  padding-top: 10px;
+  font-size: 30px;
+  background-color: black;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+footer .social-links a:hover {
+  color: black;
+  background-color: white;
+}
+
 @media (max-width: 500px) {
   .hero {
     background-size: contain;
@@ -52,18 +83,4 @@ h2 {
     line-height: 15px !important;
     padding: 5px 10px !important;
   }
-}
-
-.btn-branding {
-  background: radial-gradient(
-    circle,
-    rgba(0, 212, 255, 1) 0%,
-    rgba(0, 0, 3, 0.6195071778711485) 0%,
-    rgba(0, 0, 0, 0.6643251050420168) 100%
-  );
-  border-radius: 4px;
-  color: white;
-  font-size: 18px;
-  line-height: 27px;
-  padding: 10px 20px;
 }
