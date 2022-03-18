@@ -75,6 +75,7 @@ footer .social-links a:hover {
   padding: 10px;
   border-radius: 10px;
 }
+
 .contact-prices .contact-links a:hover {
   color: black;
   background-color: white;
@@ -87,7 +88,7 @@ footer .social-links a:hover {
   margin: 0 25px;
   padding-top: 10px;
   font-size: 30px;
-  font-family: "dancing script";
+  font-family: "Hubballi";
   margin: 10px;
   padding: 10px;
   border-radius: 10px;
@@ -99,14 +100,32 @@ footer .social-links a:hover {
   margin: 0 25px;
   padding-top: 10px;
   font-size: 30px;
-  font-family: "Hubballi", cursive;
+  font-family: "Hubballi";
   margin: 10px;
   padding: 10px;
   border-radius: 10px;
 }
+
+.content-container a {
+  text-decoration: none;
+  color: white;
+}
+.content-container a:hover {
+  color: rgb(122, 28, 28);
+}
+
 .photos {
   padding: 50px;
 }
+
+.contact-prices p .jumestus {
+  text-decoration: none;
+  color: white;
+}
+.contact-prices p .jumestus:hover {
+  color: rgb(216, 102, 197);
+}
+
 @media (max-width: 1000px) {
   .hero {
     background-size: contain;
@@ -135,7 +154,7 @@ footer .social-links a:hover {
     display: none;
   }
   .contact-prices p {
-    font-size: 15px;
+    font-size: 17px;
     text-align: left;
     padding: 0;
     margin: 0;
