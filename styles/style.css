@@ -107,7 +107,7 @@ footer .social-links a:hover {
 .photos {
   padding: 50px;
 }
-@media (max-width: 800px) {
+@media (max-width: 1000px) {
   .hero {
     background-size: contain;
     padding: 20px;
@@ -129,5 +129,12 @@ footer .social-links a:hover {
   }
   .contact-links .email2 {
     display: none;
+  }
+
+  .contact-prices .img-fluid {
+    display: none;
+  }
+  .contact-prices p {
+    font-size: 15px;
   }
 }
