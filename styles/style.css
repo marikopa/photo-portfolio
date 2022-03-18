@@ -3,7 +3,8 @@ body {
 }
 
 h1,
-h2 {
+h2,
+h3 {
   font-family: "dancing script";
   text-align: center;
   color: white;
@@ -63,7 +64,50 @@ footer .social-links a:hover {
   background-color: white;
 }
 
-@media (max-width: 500px) {
+.contact-prices .contact-links a {
+  text-decoration: none;
+  color: white;
+  margin: 0 25px;
+  padding-top: 10px;
+  font-size: 30px;
+  background-color: black;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+}
+.contact-prices .contact-links a:hover {
+  color: black;
+  background-color: white;
+}
+.contact-prices {
+  padding: 10px;
+}
+.contact-prices p {
+  color: white;
+  margin: 0 25px;
+  padding-top: 10px;
+  font-size: 30px;
+  font-family: "dancing script";
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.content-container p {
+  color: white;
+  margin: 0 25px;
+  padding-top: 10px;
+  font-size: 30px;
+  font-family: "Hubballi", cursive;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+}
+.photos {
+  padding: 50px;
+}
+@media (max-width: 800px) {
   .hero {
     background-size: contain;
     padding: 20px;
@@ -82,5 +126,8 @@ footer .social-links a:hover {
     font-size: 10px !important;
     line-height: 15px !important;
     padding: 5px 10px !important;
+  }
+  .contact-links .email2 {
+    display: none;
   }
 }
