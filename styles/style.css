@@ -136,5 +136,8 @@ footer .social-links a:hover {
   }
   .contact-prices p {
     font-size: 15px;
+    text-align: left;
+    padding: 0;
+    margin: 0;
   }
 }
