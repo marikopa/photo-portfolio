@@ -126,6 +126,14 @@ footer .social-links a:hover {
   color: rgb(216, 102, 197);
 }
 
+.git {
+  color: aliceblue;
+}
+
+.git a {
+  text-decoration: none;
+  color: aliceblue;
+}
 @media (max-width: 1000px) {
   .hero {
     background-size: contain;
