@@ -134,6 +134,11 @@ footer .social-links a:hover {
   text-decoration: none;
   color: aliceblue;
 }
+.contact-prices p .mmilu {
+  max-width: 150px;
+  max-height: 150px;
+}
+
 @media (max-width: 1000px) {
   .hero {
     background-size: contain;
@@ -169,5 +174,8 @@ footer .social-links a:hover {
   }
   .content-container p {
     font-size: 20px;
+  }
+  .contact-prices p .mmilu {
+    display: none;
   }
 }
