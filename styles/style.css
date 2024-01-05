@@ -154,8 +154,14 @@ max-height: fit-content;
 @media (max-width: 1000px) {
   .hero {
     background-size: contain;
-    
-    text-align: center;
+    padding: 20px;
+    text-align: center center;
+      background-image: url(../images/esileht.png);
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      padding-top: 100px;
+      padding-bottom: 500px;
+      background-size: cover;
   }
   
   .contact-links .email2 {
