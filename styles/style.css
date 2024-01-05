@@ -154,11 +154,10 @@ max-height: fit-content;
 @media (max-width: 1000px) {
   .hero {
     background-size: contain;
+    padding-top: 50px;
     padding: 20px;
     text-align: center center;
-      background-image: url(../images/esileht.png);
-      background-repeat: no-repeat;
-      background-attachment: fixed;
+   
       
     
   }
