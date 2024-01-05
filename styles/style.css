@@ -173,7 +173,8 @@ footer .social-links a:hover {
   }
 
   .contact-prices .img-fluid {
-    
+    display: block;
+    max-width: 300px;
     
   }
   .contact-prices p {
