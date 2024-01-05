@@ -140,7 +140,7 @@ footer .social-links a:hover {
 }
 
 .contact-prices .img-fluid { 
-  max-width: fit-content;
+  max-width: 100px;
 }
 
 
