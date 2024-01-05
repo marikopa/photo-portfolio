@@ -140,8 +140,10 @@ footer .social-links a:hover {
 }
 
 .contact-prices .img-fluid { 
-  max-width: 1000px;
+  max-width: 900px;
   text-align: center;
+  display: block;
+  padding: 60px;
 }
 
 
