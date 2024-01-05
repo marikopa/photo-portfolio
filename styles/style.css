@@ -171,8 +171,10 @@ width: auto;
   .contact-links .email2 {
     display: none;
   }
-
-  .contact-prices .img-fluid {
+.contact-prices .img-fluid  { 
+  display: none;
+} 
+  .contact-links .img-fluid {
     text-align: center;
     max-width: 400px;
     
