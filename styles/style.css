@@ -154,7 +154,8 @@ max-height: fit-content;
 @media (max-width: 1000px) {
   .hero {
     background-size:contain;
-    padding-top:  200px;
+    
+    padding-bottom: 200px;
     text-align: center center;
     
   }
