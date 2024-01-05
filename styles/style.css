@@ -141,6 +141,7 @@ footer .social-links a:hover {
 
 .contact-links .img-fluid { 
 width: auto;
+max-height: fit-content;
   text-align: center;
   display: block;
   padding: 50px;
