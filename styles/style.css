@@ -188,10 +188,34 @@ max-height: fit-content;
     row-gap: 0;
 
   }
+
+
+
+.contact-prices h1 {
+  font-size: 19px;
+  text-align: left !important;
+  padding: 0;
+  margin: 0;
+  row-gap: 0;
+
+}
+
+
+.contact-prices h6 {
+  font-size: 13px;
+  text-align: left !important;
+  padding: 0;
+  margin: 0;
+  row-gap: 0;
+
+}
+
+  
   .content-container p {
     font-size: 20px;
   }
   .contact-prices p .mmilu {
     display: none;
   }
+
 }
