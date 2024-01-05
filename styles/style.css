@@ -151,7 +151,7 @@ max-height: fit-content;
   padding: 10px;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 1000px max-height:1000px) {
   .hero {
     background-size: contain;
     padding: 20px;
