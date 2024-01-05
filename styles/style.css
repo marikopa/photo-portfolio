@@ -159,9 +159,8 @@ max-height: fit-content;
       background-image: url(../images/esileht.png);
       background-repeat: no-repeat;
       background-attachment: fixed;
-      padding-top: 100px;
-      padding-bottom: 500px;
-      background-size: cover;
+      
+    
   }
   
   .contact-links .email2 {
