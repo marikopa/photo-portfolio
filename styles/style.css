@@ -181,9 +181,9 @@ max-height: fit-content;
     
   }
   .contact-prices p {
-    font-size: 13px;
+    font-size: 14px;
     text-align: left !important;
-    padding: 0;
+    padding: 20px;
     margin: 0;
     row-gap: 0;
 
@@ -194,7 +194,7 @@ max-height: fit-content;
 .contact-prices h1 {
   font-size: 21px;
   text-align: center;
-  padding: 0;
+  padding: 20px;
   margin: 0;
   row-gap: 0;
 
@@ -202,9 +202,9 @@ max-height: fit-content;
 
 
 .contact-prices h6 {
-  font-size: 13px;
+  font-size: 10px;
   text-align: left !important;
-  padding: 0;
+  padding: 20px;
   margin: 0;
   row-gap: 0;
 
