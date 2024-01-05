@@ -5,13 +5,17 @@ body {
 h1,
 h2,
 h3,
-h6 {
+ {
   font-family: "dancing script";
   text-align: center;
   color: white;
   font-weight: bold;
 }
 
+h6 { text-align: center;
+  color: white;
+
+}
 .hero h2 {
   font-size: 96px;
 }
