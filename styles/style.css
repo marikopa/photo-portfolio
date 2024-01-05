@@ -139,6 +139,12 @@ footer .social-links a:hover {
   max-height: 150px;
 }
 
+.contact-prices .img-fluid { 
+  max-width: fit-content;
+}
+
+
+
 @media (max-width: 1000px) {
   .hero {
     background-size: contain;
@@ -165,8 +171,7 @@ footer .social-links a:hover {
 
   .contact-prices .img-fluid {
     
-    display: block;
-    position: relative;
+    
   }
   .contact-prices p {
     font-size: 17px;
