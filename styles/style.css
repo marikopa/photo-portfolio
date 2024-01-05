@@ -165,7 +165,8 @@ footer .social-links a:hover {
 
   .contact-prices .img-fluid {
     
-    display position: bottom;
+    display: block;
+    position: relative;
   }
   .contact-prices p {
     font-size: 17px;
