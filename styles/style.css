@@ -156,9 +156,6 @@ max-height: fit-content;
     background-size: contain;
     padding: 20px;
     text-align: center center;
-    max-width: 600px;
-    max-height: 600px;
-      
     
   }
   
@@ -174,7 +171,7 @@ max-height: fit-content;
     
   }
   .contact-prices p {
-    font-size: 10px;
+    font-size: 14px;
     text-align: left !important;
     padding: 0;
     margin: 0;
