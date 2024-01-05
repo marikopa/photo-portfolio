@@ -151,13 +151,14 @@ max-height: fit-content;
   padding: 10px;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 900px) {
   .hero {
     background-size: contain;
     padding: 20px;
     text-align: center center;
     max-width: 600px;
-    
+    max-height: 600px;
+
    
       
     
