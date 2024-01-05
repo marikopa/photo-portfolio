@@ -178,7 +178,7 @@ max-height: fit-content;
     text-align: left !important;
     padding: 0;
     margin: 0;
-    columns: none;
+    row-gap: none;
 
   }
   .content-container p {
