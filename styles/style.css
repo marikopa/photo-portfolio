@@ -64,7 +64,7 @@ footer .social-links a:hover {
   background-color: white;
 }
 
-.contact-prices .contact-links a {
+ .contact-links a {
   text-decoration: none;
   color: white;
   margin: 0 25px;
@@ -76,7 +76,7 @@ footer .social-links a:hover {
   border-radius: 10px;
 }
 
-.contact-prices .contact-links a:hover {
+ .contact-links a:hover {
   color: black;
   background-color: white;
 }
