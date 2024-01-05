@@ -147,7 +147,9 @@ max-height: fit-content;
   padding: 50px;
 }
 
-
+.contact-links {
+  padding: 10px;
+}
 
 @media (max-width: 1000px) {
   .hero {
