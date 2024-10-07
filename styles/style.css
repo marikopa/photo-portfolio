@@ -175,8 +175,8 @@ max-height: fit-content;
 .contact-prices .img-fluid  { 
   display: none;
 } 
-.contact-joul .img-fluid {
-  display: under;
+.contact-joul .row{
+  display: none;
 }
   .contact-links .img-fluid {
     text-align: center;
