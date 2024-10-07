@@ -175,6 +175,9 @@ max-height: fit-content;
 .contact-prices .img-fluid  { 
   display: none;
 } 
+.contact-joul .img-fluid {
+  display: under;
+}
   .contact-links .img-fluid {
     text-align: center;
     max-width: 400px;
